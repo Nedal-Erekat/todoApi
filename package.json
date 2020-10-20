@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/Nedal-Erekat/todoApi/issues"
   },
-  "homepage": "https://github.com/Nedal-Erekat/todoApi#readme"
+  "homepage": "https://github.com/Nedal-Erekat/todoApi#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "morgan": "^1.10.0"
+  }
 }
