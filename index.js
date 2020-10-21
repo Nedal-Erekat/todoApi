@@ -1,7 +1,7 @@
 'use strict';
 const server = require('./lib/server.js');
 const mongoose = require('mongoose');
-const MONGOOSE_URL="mongodb+srv://Nedal:9999@cluster0.7mqob.mongodb.net/todo?retryWrites=true&w=majority" || process.env.MONGOOSE_url
+const MONGOOSE_URL="mongodb+srv://Nedal:9999@cluster0.7mqob.mongodb.net/test" || process.env.MONGOOSE_url
 
 
 // connection details should be .env file
